@@ -10,9 +10,9 @@ function Home() {
     <div style={{ background: "#141414" }}>
       <Menu />
       <BannerMain
-        videoTitle={dadosIniciais.categorias[0].videos[0].titulo[0]}
-        url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é frontEnd ?"}
+        videoTitle={dadosIniciais.categorias[4].videos[4].titulo}
+        url={dadosIniciais.categorias[4].videos[4].url}
+        videoDescription={"Incrible Riot Animation Yasuo "}
       />
 
       <Carousel
@@ -21,11 +21,11 @@ function Home() {
       />
       <Carousel
         ignoreFirstVideo
-        category={dadosIniciais.categorias[1]}
+        category={dadosIniciais.categorias[3]}
       />
       <Carousel
         ignoreFirstVideo
-        category={dadosIniciais.categorias[2]}
+        category={dadosIniciais.categorias[4]}
       />
       <Carousel
         ignoreFirstVideo

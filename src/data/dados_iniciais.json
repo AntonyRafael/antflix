@@ -1,46 +1,43 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Animações de Jogos",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      },
+
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Animação League of Legends: Uma Nova Alvorada",
+          "url": "https://www.youtube.com/watch?v=BWwfgT_eoqs"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Irmãos da Lâmina Manchada | Animação Florescer Espiritual",
+          "url": "https://www.youtube.com/watch?v=4eNjKhwXIWg"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Ryze: Chamado do Poder | Curta-Metragem ",
+          "url": "https://www.youtube.com/watch?v=vyNBf-SvFVE"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Warriors | Animação da Temporada 2020 - League of Legends",
+          "url": "https://www.youtube.com/watch?v=aR-KAldshAE"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Awaken (ft. Valerie Broussard) | Season 2019 Cinematic",
+          "url": "https://www.youtube.com/watch?v=zF5Ddo9JdpY"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Contos de Runeterra: Águas de Sentina | Virando o Jogo",
+          "url": "https://www.youtube.com/watch?v=Jp9wrmF81gc"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Contos de Runeterra: Ionia | A Lição",
+          "url": "https://www.youtube.com/watch?v=l7opUhgEx7U"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "A New Dawn | Cinematic - League of Legends",
+          "url": "https://www.youtube.com/watch?v=vzHrjOMfHPY"
+        }
       ]
     },
     {
@@ -66,7 +63,7 @@
         {
           "titulo": "API: Dicionário do Programador",
           "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
+        },
         {
           "titulo": "Usando Git Direito",
           "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
@@ -100,8 +97,12 @@
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Filmes e Series",
       "cor": "orange",
+      "link_extra": {
+        "text": "Fique por dentro dos Filmes e series ",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
       "videos": [
         {
           "titulo": "Interestellar",
@@ -110,6 +111,14 @@
         {
           "titulo": "Gattaca",
           "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+        },
+        {
+          "titulo": "Peaky Blinders | Season 5 Trailer | Netflix",
+          "url": "https://www.youtube.com/watch?v=Ruyl8_PT_y8"
+        },
+        {
+          "titulo": "Vikings 6° Temporada Final Clip ",
+          "url": "https://www.youtube.com/watch?v=voVZC9KujfI"
         },
         {
           "titulo": "A Chegada",
@@ -125,7 +134,7 @@
       "titulo": "Games",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
+        "text": "Formação de Jogos",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
@@ -138,12 +147,16 @@
           "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
         },
         {
-          "titulo": "God of War 4",
+          "titulo": "God of War 4 ",
           "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
         },
         {
           "titulo": "Resident Evil 8",
           "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Irmãos da Lâmina Manchada | Animação Florescer Espiritual",
+          "url": "https://www.youtube.com/watch?v=4eNjKhwXIWg"
         },
         {
           "titulo": "Pokémon Let's Go Pikachu/Eevee",
