@@ -41,58 +41,78 @@
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Lutas de animes e series",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
+        "text": "Nenhum fã pode perder",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Rock Lee vs Gaara - Naruto Clássico - Luta Completa",
+          "url": "https://www.youtube.com/watch?v=E0xsfehI0hI"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Madara Vs. Aliança Shinobi",
+          "url": "https://www.youtube.com/watch?v=nPqNerNCRTA"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Kakashi VS Pain - Naruto Shippuuden",
+          "url": "https://www.youtube.com/watch?v=Tm3_1wBWobg"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Vingadores Avante! / Batalha Final",
+          "url": "https://www.youtube.com/watch?v=8NErxc4G_Nc"
         },
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Batalha em Wakanda (Parte 1) DUBLADO HD",
+          "url": "https://www.youtube.com/watch?v=XrEJL8rZhU4"
+        },
+        {
+          "titulo": "L vs Kira - Death Note",
+          "url": "https://www.youtube.com/watch?v=j-jYYbUR6ZU"
+        },
+        {
+          "titulo": "MELIODAS VS ESCANOR - NANATSU NO TAIZAI ",
+          "url": "https://www.youtube.com/watch?v=khvju4ssoqo"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Tecnologia",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
+        "text": "Fique por dentro das Novidades",
         "url": "https://www.alura.com.br/formacao-data-science"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "QUANTO CUSTA UM PC GAMER AO NÍVEL DO PLAYSTATION 5?",
+          "url": "https://www.youtube.com/watch?v=rx7fQWwOoKI"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Chegou! Redmi 9 - SERÁ esse o MELHOR XIAOMI CUSTO-BENEFÍCIO?",
+          "url": "https://www.youtube.com/watch?v=YBpvb1fxHFo"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "OS 5 MELHORES CELULARES da XIAOMI",
+          "url": "https://www.youtube.com/watch?v=0ZH51TIrw1M"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Entenda: por que o 5G é tão revolucionário?",
+          "url": "https://www.youtube.com/watch?v=44R0gssl_RE"
+        },
+        {
+          "titulo": "8 tecnologias inventadas por brasileiros - TecMundo",
+          "url": "https://www.youtube.com/watch?v=Yni_QlE8y5E"
+        },
+        {
+          "titulo": "A história da Inteligência Artificial - TecMundo",
+          "url": "https://www.youtube.com/watch?v=Lhu8bdmkMCM"
+        },
+        {
+          "titulo": "The new iPhone SE — Apple",
+          "url": "https://www.youtube.com/watch?v=SQIbeAk-bFA"
         }
       ]
     },
@@ -105,12 +125,8 @@
       },
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Homem-Aranha - Longe de Casa",
+          "url": "https://www.youtube.com/watch?v=6bpZXJgtYww&t=19s"
         },
         {
           "titulo": "Peaky Blinders | Season 5 Trailer | Netflix",
@@ -119,6 +135,34 @@
         {
           "titulo": "Vikings 6° Temporada Final Clip ",
           "url": "https://www.youtube.com/watch?v=voVZC9KujfI"
+        },
+        {
+          "titulo": "Pantera Negra – Trailer (legendado)",
+          "url": "https://www.youtube.com/watch?v=wL4a4MafSjQ"
+        },
+        {
+          "titulo": "Vingadores - Guerra Infinita | Trailer Oficial Legendado",
+          "url": "https://www.youtube.com/watch?v=t_ULBP6V9bg"
+        },
+        {
+          "titulo": "How to Sell Drugs Online (Fast) Temporada 2",
+          "url": "https://www.youtube.com/watch?v=YzkWqRYvWHI"
+        },
+        {
+          "titulo": "Breaking Bad - Trailer Legendado",
+          "url": "https://www.youtube.com/watch?v=2-W6_6gJda0"
+        },
+        {
+          "titulo": "Naruto Official Trailer",
+          "url": "https://www.youtube.com/watch?v=j2hiC9BmJlQ"
+        },
+        {
+          "titulo": "BROOKLYN NINE-NINE - Official Trailer",
+          "url": "https://www.youtube.com/watch?v=sEOuJ4z5aTc"
+        },
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
         },
         {
           "titulo": "A Chegada",
@@ -134,38 +178,70 @@
       "titulo": "Games",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos",
+        "text": "Se você é gamer tem que jogar",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
-        },
-        {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Assassin's Creed Valhalla:",
+          "url": "https://www.youtube.com/watch?v=TUbgBVTD7VI"
         },
         {
           "titulo": "God of War 4 ",
           "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
         },
         {
+          "titulo": "Red Dead Redemption 2: Official Trailer #3",
+          "url": "https://www.youtube.com/watch?v=eaW0tYpxyp0"
+        },
+        {
+          "titulo": "CYBERPUNK 2077 NEW Trailer",
+          "url": "https://www.youtube.com/watch?v=YTCUhcyiu4U"
+        },
+        {
+          "titulo": "MORTAL KOMBAT 11 Official Trailer (2019)",
+          "url": "https://www.youtube.com/watch?v=4ANaKFnOOjk"
+        },
+        {
+          "titulo": "Desafie seus limites // Trailer de Gameplay",
+          "url": "https://www.youtube.com/watch?v=h1Kp9x_ADZw"
+        },
+        {
+          "titulo": "Far Cry 3 - Trailer do Lançamento Oficial [Legendado",
+          "url": "https://www.youtube.com/watch?v=1uAPIickjPg"
+        },
+        {
           "titulo": "Resident Evil 8",
           "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
         },
         {
-          "titulo": "Irmãos da Lâmina Manchada | Animação Florescer Espiritual",
-          "url": "https://www.youtube.com/watch?v=4eNjKhwXIWg"
+          "titulo": "Far Cry 6 - Trailer",
+          "url": "https://www.youtube.com/watch?v=Jp5Y-a_oiPM"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "The Witcher 3: Wild Hunt",
+          "url": "https://www.youtube.com/watch?v=c0i88t0Kacs"
+        },
+        {
+          "titulo": "Crash Bandicoot N. Sane Trilogy",
+          "url": "https://www.youtube.com/watch?v=F7G91RjVmvk"
+        },
+        {
+          "titulo": "SpongeBob SquarePants: Battle for Bikini Bottom Rehydrated ",
+          "url": "https://www.youtube.com/watch?v=q3sX703lW_w"
+        },
+        {
+          "titulo": "Destroy All Humans! - Official Remake",
+          "url": "https://www.youtube.com/watch?v=DHMDrhBREXU"
+        },
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Alura Recomenda =) ",
       "cor": "#6b5be2",
       "link_extra": {
         "text": "Curso sobre aprendizado na Alura",
@@ -187,6 +263,62 @@
         {
           "titulo": "A mágica do Aprendizado",
           "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+        },
+        {
+          "titulo": "SEO com React",
+          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+        },
+        {
+          "titulo": "Componentização com VanillaJS #AluraMais",
+          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+        },
+        {
+          "titulo": "Pare de chutar e aprenda a display: inline #01",
+          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+        },
+        {
+          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
+          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+        },
+        {
+          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+        },
+        {
+          "titulo": "Novidades do Angular v9",
+          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+        },
+        {
+          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
+          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+        },
+        {
+          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
+          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+        },
+        {
+          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
+          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+        },
+        {
+          "titulo": "API: Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+        },
+        {
+          "titulo": "Teste de Turing",
+          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+        },
+        {
+          "titulo": "O que é Data Science?",
+          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+        },
+        {
+          "titulo": "Melhor forma de aprender Python",
+          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
         },
         {
           "titulo": "Como aprender a programar?",

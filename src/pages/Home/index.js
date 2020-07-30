@@ -10,35 +10,29 @@ function Home() {
     <div style={{ background: "#141414" }}>
       <Menu />
       <BannerMain
-        videoTitle={dadosIniciais.categorias[4].videos[4].titulo}
-        url={dadosIniciais.categorias[4].videos[4].url}
+        videoTitle={dadosIniciais.categorias[0].videos[1].titulo}
+        url={dadosIniciais.categorias[0].videos[1].url}
         videoDescription={"Incrible Riot Animation Yasuo "}
       />
 
       <Carousel
-        ignoreFirstVideo
         category={dadosIniciais.categorias[0]}
       />
       <Carousel
-        ignoreFirstVideo
-        category={dadosIniciais.categorias[3]}
+        category={dadosIniciais.categorias[1]}
       />
       <Carousel
-        ignoreFirstVideo
-        category={dadosIniciais.categorias[4]}
+        category={dadosIniciais.categorias[2]}
       />
       <Carousel
-        ignoreFirstVideo
         category={dadosIniciais.categorias[3]}
       />
 
       <Carousel
-        ignoreFirstVideo
         category={dadosIniciais.categorias[4]}
       />
 
       <Carousel
-        ignoreFirstVideo
         category={dadosIniciais.categorias[5]}
       />
 

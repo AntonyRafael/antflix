@@ -1,0 +1,16 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Front End",
+      "descricao": "Aprenda tudo de front end com a alura",
+      "cor": "#6bd1ff"
+    },
+    {
+      "id": 2,
+      "nome": "Back End",
+      "descricao": "Aprenda tudo de Back end com a alura",
+      "cor": "#6bd1aa"
+    }
+  ]
+}
