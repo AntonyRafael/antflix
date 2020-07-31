@@ -1,11 +1,11 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Logo from '../../assets/imagens/logo.png'
+import Logo from '../../assets/imagens/logo.png';
 import './Menu.css';
-//import ButtonLink from './components/ButtonLink';
-import Button from '../Button'
-function Menu() {
+// import ButtonLink from './components/ButtonLink';
+import Button from '../Button';
 
+function Menu() {
   return (
     <nav className="Menu">
       <Link to="/">
@@ -15,8 +15,7 @@ function Menu() {
         Novo video
       </Button>
     </nav>
-  )
+  );
 }
-
 
 export default Menu;

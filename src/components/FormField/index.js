@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 import React from 'react';
 import PropTypes from 'prop-types';
 import styled, { css } from 'styled-components';
@@ -72,29 +73,46 @@ const Input = styled.input`
 `;
 
 function FormField({
-  label, type, value, name, onChange,
+  label, type, value, name, onChange, suggestions,
 }) {
-  const fieldID = `${name}`;
+  const fieldId = `id_${name}`;
   const isTextArea = type === 'textarea';
   const tag = isTextArea ? 'textarea' : 'input';
+
   const hasValue = Boolean(value.length);
+  const hasSuggestion = Boolean(suggestions.length);
   return (
     <FormFieldWrapper>
       <Label
-        htmlFor={fieldID}
+        htmlFor={fieldId}
       >
         <Input
           as={tag}
-          id={fieldID}
+          id={fieldId}
           type={type}
           value={value}
           name={name}
           onChange={onChange}
+          autoComplete={hasSuggestion ? "off" : "on"}
+          list={hasSuggestion ? `suggestionFor_${fieldId}` : "on"}
         />
         <Label.Text>
           {label}
-        :
+          :
         </Label.Text>
+        {
+          hasSuggestion && (
+            <datalist id={`suggestionFor_${fieldId}`}>
+              {
+                suggestions.map((suggestion) => (
+                  <option value={suggestion} key={`suggestionFor_${fieldId}_option${suggestion}`}>
+                    {suggestion}
+                  </option>
+                ))
+              }
+            </datalist>
+          )
+        }
 
       </Label>
     </FormFieldWrapper>
@@ -104,6 +122,7 @@ FormField.defaultProps = {
   type: 'text',
   value: '',
   onChange: () => { },
+  suggestions: [],
 };
 
 FormField.prototypes = {
@@ -112,5 +131,6 @@ FormField.prototypes = {
   value: PropTypes.string,
   name: PropTypes.string.isRequired,
   onChange: PropTypes.func,
+  suggestions: PropTypes.arrayOf(PropTypes.string),
 };
 export default FormField;
