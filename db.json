@@ -337,115 +337,115 @@
     {
       "titulo": "Como estudar melhor?",
       "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be",
-      "categoriaId": 1,
+      "categoriaId": 6,
       "id": 48
     },
     {
       "titulo": "Faculdade",
       "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be",
-      "categoriaId": 1,
+      "categoriaId": 6,
       "id": 49
     },
     {
       "titulo": "Frameworks",
       "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI",
-      "categoriaId": 1,
+      "categoriaId": 6,
       "id": 50
     },
     {
       "titulo": "A mágica do Aprendizado",
       "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY",
-      "categoriaId": 1,
+      "categoriaId": 6,
       "id": 51
     },
     {
       "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
       "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw",
-      "categoriaId": 1,
+      "categoriaId": 6,
       "id": 52
     },
     {
       "titulo": "SEO com React",
       "url": "https://www.youtube.com/watch?v=c8mVlakBESE",
-      "categoriaId": 1,
+      "categoriaId": 6,
       "id": 53
     },
     {
       "titulo": "Componentização com VanillaJS #AluraMais",
       "url": "https://www.youtube.com/watch?v=LatCKpcOMak",
-      "categoriaId": 1,
+      "categoriaId": 6,
       "id": 54
     },
     {
       "titulo": "Pare de chutar e aprenda a display: inline #01",
       "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE",
-      "categoriaId": 1,
+      "categoriaId": 6,
       "id": 55
     },
     {
       "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
       "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0",
-      "categoriaId": 1,
+      "categoriaId": 6,
       "id": 56
     },
     {
       "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
       "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w",
-      "categoriaId": 1,
+      "categoriaId": 6,
       "id": 57
     },
     {
       "titulo": "Novidades do Angular v9",
       "url": "https://www.youtube.com/watch?v=34uHo7hFmG0",
-      "categoriaId": 1,
+      "categoriaId": 6,
       "id": 58
     },
     {
       "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
       "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM",
-      "categoriaId": 1,
+      "categoriaId": 6,
       "id": 59
     },
     {
       "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
       "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY",
-      "categoriaId": 1,
+      "categoriaId": 6,
       "id": 60
     },
     {
       "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
       "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY",
-      "categoriaId": 1,
+      "categoriaId": 6,
       "id": 61
     },
     {
       "titulo": "API: Dicionário do Programador",
       "url": "https://www.youtube.com/watch?v=vGuqKIRWosk",
-      "categoriaId": 1,
+      "categoriaId": 6,
       "id": 62
     },
     {
       "titulo": "Teste de Turing",
       "url": "https://www.youtube.com/watch?v=BaPGU4JWa34",
-      "categoriaId": 1,
+      "categoriaId": 6,
       "id": 63
     },
     {
       "titulo": "O que é Data Science?",
       "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s",
-      "categoriaId": 1,
+      "categoriaId": 6,
       "id": 64
     },
     {
       "titulo": "Melhor forma de aprender Python",
       "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY",
-      "categoriaId": 1,
+      "categoriaId": 6,
       "id": 65
     },
     {
       "titulo": "Como aprender a programar?",
       "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be",
-      "categoriaId": 1,
+      "categoriaId": 6,
       "id": 66
     }
   ]
