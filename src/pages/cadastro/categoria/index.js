@@ -3,7 +3,29 @@ import { Link } from 'react-router-dom';
 import PageDefault from '../../../components/PageDefault';
 import FormField from '../../../components/FormField';
 import Button from '../../../components/Button';
+import ButtonRigth from '../../../components/ButtonRigth';
+
 import useForm from '../../../hooks/useForm';
+import styled from 'styled-components';
+
+const Li = styled.li`
+  list-style: none;
+  padding: 10px;
+  font-size: 24px;
+  line-height: 36px;
+  
+
+  &::before {
+
+  content: "";
+  display: inline-block;
+  width: 25px;
+  height: 10px;
+  margin-right: 10px;
+  margin-bottom: 4px;
+  background: #14BAEE;
+  }
+`;
 
 function CadastroCategoria() {
   const valoresIniciais = {
@@ -57,11 +79,10 @@ function CadastroCategoria() {
         />
 
         <FormField
-
           label="Descrição"
           type="textarea"
           name="descricao"
-          values={values.descricao}
+          value={values.descricao}
           onChange={handleChange}
         />
 
@@ -69,9 +90,10 @@ function CadastroCategoria() {
           label="Cor"
           type="color"
           name="cor"
-          values={values.cor}
+          value={values.cor}
           onChange={handleChange}
         />
+
         {/* <div>
           <label>
             Descrição:
@@ -96,17 +118,21 @@ function CadastroCategoria() {
 
       <ul>
         {categorias.map((categoria, indice) => (
-          <li key={`${categoria.titulo}`}>
+          console.log("CATEGORIA", categoria),
+
+          <Li key={`${categoria.titulo}`}>
             {categoria.titulo}
-          </li>
+          </Li>
         ))}
       </ul>
 
+
+
       <Link to="/">
-        Ir para home
+        <ButtonRigth>Ir para home</ButtonRigth>
       </Link>
 
-    </PageDefault>
+    </PageDefault >
   );
 }
 

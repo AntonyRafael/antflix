@@ -4,6 +4,8 @@ import PageDefault from '../../../components/PageDefault';
 import FormField from '../../../components/FormField';
 import useForm from '../../../hooks/useForm';
 import Button from '../../../components/Button';
+import ButtonRigth from '../../../components/ButtonRigth';
+
 import videosRepository from '../../../repositories/videos';
 import categoriasRepository from '../../../repositories/categorias';
 
@@ -15,7 +17,7 @@ function CadastroVideo() {
   const { handleChange, values } = useForm({
     titulo: '',
     url: '',
-    categoria: 'Alura Recomenda',
+    categoria: '',
   });
 
   useEffect(() => {
@@ -41,7 +43,7 @@ function CadastroVideo() {
         videosRepository.create({
           titulo: values.titulo,
           url: values.url,
-          categoriaId: 1,
+          categoriaId: categoriaEscolhida.id,
         })
           .then(() => {
             console.log('Cadastrou com sucesso!');
@@ -77,7 +79,7 @@ function CadastroVideo() {
       </form>
 
       <Link to="/cadastro/categoria">
-        Cadastrar Categoria
+        <ButtonRigth>Cadastrar Categoria</ButtonRigth>
       </Link>
     </PageDefault>
   );

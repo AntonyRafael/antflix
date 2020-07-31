@@ -1,12 +1,11 @@
 import styled from 'styled-components';
 
-const Button = styled.button`
-  
-  font-size: 24px;
-  text-decoration: none;
+const ButtonRigth = styled.button`
+  float: right;
+   font-size: 24px;
    margin-bottom:15px;
    transition: .5s;
-   padding: 12px 24px;
+   padding: 10px;
    color:white;
    font-weight: normal;
    border-radius: 7px;
@@ -20,4 +19,4 @@ const Button = styled.button`
    }
 `;
 
-export default Button;
+export default ButtonRigth;
