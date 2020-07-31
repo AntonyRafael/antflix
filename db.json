@@ -2,15 +2,342 @@
   "categorias": [
     {
       "id": 1,
-      "nome": "Front End",
-      "descricao": "Aprenda tudo de front end com a alura",
-      "cor": "#6bd1ff"
+      "titulo": "Animações de Jogos",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Animações que você não pode perder",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      }
     },
     {
       "id": 2,
-      "nome": "Back End",
-      "descricao": "Aprenda tudo de Back end com a alura",
-      "cor": "#6bd1aa"
+      "titulo": "Lutas de animes e series",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Nenhum fã pode perder",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Tecnologia",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Fique por dentro das novidades",
+        "url": "https://www.alura.com.br/cursos-online-mobile"
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "Filmes e Series",
+      "cor": "orange"
+    },
+    {
+      "id": 5,
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "Se você é gamer tem que jogar",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      }
+    },
+    {
+      "id": 6,
+      "titulo": "Alura Recomenda",
+      "cor": "green",
+      "link_extra": {
+        "text": "Não deixe de dar uma olahda =) ",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Animação League of Legends: Uma Nova Alvorada",
+      "url": "https://www.youtube.com/watch?v=BWwfgT_eoqs"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Irmãos da Lâmina Manchada | Animação Florescer Espiritual",
+      "url": "https://www.youtube.com/watch?v=4eNjKhwXIWg"
+    },
+
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Ryze: Chamado do Poder | Curta-Metragem ",
+      "url": "https://www.youtube.com/watch?v=vyNBf-SvFVE"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Warriors | Animação da Temporada 2020 - League of Legends",
+      "url": "https://www.youtube.com/watch?v=aR-KAldshAE"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Awaken (ft. Valerie Broussard) | Season 2019 Cinematic",
+      "url": "https://www.youtube.com/watch?v=zF5Ddo9JdpY"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Contos de Runeterra: Águas de Sentina | Virando o Jogo",
+      "url": "https://www.youtube.com/watch?v=Jp9wrmF81gc"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "Contos de Runeterra: Ionia | A Lição",
+      "url": "https://www.youtube.com/watch?v=l7opUhgEx7U"
+    },
+    {
+      "id": 8,
+      "categoriaId": 1,
+      "titulo": "A New Dawn | Cinematic - League of Legends",
+      "url": "https://www.youtube.com/watch?v=vzHrjOMfHPY"
+    },
+
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "Rock Lee vs Gaara - Naruto Clássico - Luta Completa",
+      "url": "https://www.youtube.com/watch?v=E0xsfehI0hI"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Madara Vs. Aliança Shinobi",
+      "url": "https://www.youtube.com/watch?v=nPqNerNCRTA"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Kakashi VS Pain - Naruto Shippuuden",
+      "url": "https://www.youtube.com/watch?v=Tm3_1wBWobg"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "Vingadores Avante! / Batalha Final",
+      "url": "https://www.youtube.com/watch?v=8NErxc4G_Nc"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "Batalha em Wakanda (Parte 1) DUBLADO HD",
+      "url": "https://www.youtube.com/watch?v=XrEJL8rZhU4"
+    },
+    {
+      "id": 13,
+      "categoriaId": 2,
+      "titulo": "L vs Kira - Death Note",
+      "url": "https://www.youtube.com/watch?v=j-jYYbUR6ZU"
+    },
+    {
+      "id": 13,
+      "categoriaId": 2,
+      "titulo": "MELIODAS VS ESCANOR - NANATSU NO TAIZAI ",
+      "url": "https://www.youtube.com/watch?v=khvju4ssoqo"
+    },
+
+    {
+      "id": 13,
+      "categoriaId": 3,
+      "titulo": "QUANTO CUSTA UM PC GAMER AO NÍVEL DO PLAYSTATION 5?",
+      "url": "https://www.youtube.com/watch?v=rx7fQWwOoKI"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "Chegou! Redmi 9 - SERÁ esse o MELHOR XIAOMI CUSTO-BENEFÍCIO?",
+      "url": "https://www.youtube.com/watch?v=YBpvb1fxHFo"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "OS 5 MELHORES CELULARES da XIAOMI",
+      "url": "https://www.youtube.com/watch?v=0ZH51TIrw1M"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "Entenda: por que o 5G é tão revolucionário?",
+      "url": "https://www.youtube.com/watch?v=44R0gssl_RE"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "8 tecnologias inventadas por brasileiros - TecMundo",
+      "url": "https://www.youtube.com/watch?v=Yni_QlE8y5E"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "A história da Inteligência Artificial - TecMundo",
+      "url": "https://www.youtube.com/watch?v=Lhu8bdmkMCM"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "The new iPhone SE — Apple",
+      "url": "https://www.youtube.com/watch?v=SQIbeAk-bFA"
+    },
+
+    {
+      "id": 17,
+      "categoriaId": 4,
+      "titulo": "Homem-Aranha - Longe de Casa",
+      "url": "https://www.youtube.com/watch?v=6bpZXJgtYww&t=19s"
+    },
+    {
+      "id": 18,
+      "categoriaId": 4,
+      "titulo": "Peaky Blinders | Season 5 Trailer | Netflix",
+      "url": "https://www.youtube.com/watch?v=Ruyl8_PT_y8"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "Vikings 6° Temporada Final Clip ",
+      "url": "https://www.youtube.com/watch?v=voVZC9KujfI"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "Pantera Negra – Trailer (legendado)",
+      "url": "https://www.youtube.com/watch?v=wL4a4MafSjQ"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "Vingadores - Guerra Infinita | Trailer Oficial Legendado",
+      "url": "https://www.youtube.com/watch?v=t_ULBP6V9bg"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "How to Sell Drugs Online (Fast) Temporada 2",
+      "url": "https://www.youtube.com/watch?v=YzkWqRYvWHI"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "Breaking Bad - Trailer Legendado",
+      "url": "https://www.youtube.com/watch?v=2-W6_6gJda0"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "BROOKLYN NINE-NINE - Official Trailer",
+      "url": "https://www.youtube.com/watch?v=sEOuJ4z5aTc"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "Interestellar",
+      "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "A Chegada",
+      "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "Naruto Official Trailer",
+      "url": "https://www.youtube.com/watch?v=j2hiC9BmJlQ"
+    },
+
+    {
+      "id": 21,
+      "categoriaId": 5,
+      "titulo": "Assassin's Creed Valhalla:",
+      "url": "https://www.youtube.com/watch?v=TUbgBVTD7VI"
+    },
+    {
+      "id": 22,
+      "categoriaId": 5,
+      "titulo": "God of War 4 ",
+      "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+    },
+    {
+      "id": 23,
+      "categoriaId": 5,
+      "titulo": "Red Dead Redemption 2: Official Trailer #3",
+      "url": "https://www.youtube.com/watch?v=eaW0tYpxyp0"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "titulo": "CYBERPUNK 2077 NEW Trailer",
+      "url": "https://www.youtube.com/watch?v=YTCUhcyiu4U"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "titulo": "MORTAL KOMBAT 11 Official Trailer (2019)",
+      "url": "https://www.youtube.com/watch?v=4ANaKFnOOjk"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "titulo": "Desafie seus limites // Trailer de Gameplay",
+      "url": "https://www.youtube.com/watch?v=h1Kp9x_ADZw"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "titulo": "Far Cry 3 - Trailer do Lançamento Oficial [Legendado",
+      "url": "https://www.youtube.com/watch?v=1uAPIickjPg"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "titulo": "Resident Evil 8",
+      "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "titulo": "Far Cry 6 - Trailer",
+      "url": "https://www.youtube.com/watch?v=Jp5Y-a_oiPM"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "titulo": "The Witcher 3: Wild Hunt",
+      "url": "https://www.youtube.com/watch?v=c0i88t0Kacs"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "titulo": "Crash Bandicoot N. Sane Trilogy",
+      "url": "https://www.youtube.com/watch?v=F7G91RjVmvk"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "titulo": "SpongeBob SquarePants: Battle for Bikini Bottom Rehydrated ",
+      "url": "https://www.youtube.com/watch?v=q3sX703lW_w"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "titulo": "Destroy All Humans! - Official Remake",
+      "url": "https://www.youtube.com/watch?v=DHMDrhBREXU"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "titulo": "Final Fantasy 7",
+      "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
     }
   ]
 }
