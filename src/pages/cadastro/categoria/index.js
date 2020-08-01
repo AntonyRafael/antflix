@@ -122,6 +122,7 @@ function CadastroCategoria() {
 
           <Li key={`${categoria.titulo}`}>
             {categoria.titulo}
+            {categoria.nome}
           </Li>
         ))}
       </ul>
